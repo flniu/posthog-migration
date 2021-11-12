@@ -1,0 +1,3 @@
+posthog
+peewee
+psycopg2-binary

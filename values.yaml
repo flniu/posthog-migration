@@ -1,0 +1,10 @@
+cloud: k8s-local
+ingress:
+  hostname: local.me
+  nginx:
+    enabled: true
+cert-manager:
+  enabled: false
+kafka:
+  persistence:
+    size: 2Gi
